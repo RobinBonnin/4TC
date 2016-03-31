@@ -73,7 +73,7 @@ body > section {
 }
 
 .section-title h2 {
-  color: #1f2021;
+  color: #468c46;
   font-size: 30px;
   position: relative;
   margin-bottom: 25px;
@@ -120,7 +120,7 @@ width: 11px;
 }
 
 .btn-blue {
-  background-color: #00c7fc;
+  background-color: #468c46;
   color: #fff;
   font-size: 16px;
   line-height: 24px;
@@ -173,7 +173,7 @@ width: 11px;
 }
 
 .navigation .navbar-nav > li > a {
-  color: #fff;
+  color: #468c46;
   font-size: 13px;
   font-weight: 600;
   padding: 38px 25px;
@@ -181,12 +181,12 @@ width: 11px;
 }
 
 .navigation .navbar-nav > li.current > a {
-  color: #00C7FC;
-  border-bottom: 1px solid #00C7FC;
+  color: #468c46;
+  border-bottom: 1px solid #468c46;
 }
 
 .animated-nav .navigation .navbar-nav > li.current > a {
-  color: #fff;
+  color: #468c46;
   border-bottom: 1px solid #fff;
 }
 
@@ -312,7 +312,7 @@ width: 11px;
 }
 
 .carousel-indicators .active {
-  background-color: #00c7fc;
+  background-color: #468c46;
   border: 0;
 }
 
@@ -326,7 +326,7 @@ width: 11px;
 }
 
 #service .media .media-body h3{
-    color: #00C7FC;
+    color: #468C46;
     font-weight: 400;
     font-size: 20px;
     margin-bottom: 15px;
@@ -360,7 +360,7 @@ width: 11px;
 }
 
 .service-item h3 {
-  color: #00c7fc;
+  color: #468c46;
   font-size: 20px;
   margin-bottom: 28px;
 }
@@ -449,7 +449,7 @@ width: 11px;
 
 .project-filter ul li a:hover,
 .project-filter ul li a.active {
-    background-color: #00C7FC;
+    background-color: #468c46;
     color: #fff;
 }
 
@@ -659,8 +659,8 @@ figcaption.mask span {
 
 .owl-controls .owl-page.active span,
 .owl-controls .owl-page:hover span {
-  background-color: #00C7FC;
-  border-color: #00C7FC;
+  background-color: #468c46;
+  border-color: #468c46;
 }
 
 
@@ -683,7 +683,7 @@ figcaption.mask span {
 .progress .bar {
   width: 0;
   height: 25px;
-  background-color: #00C7FC;
+  background-color: #468c46;
 
   -webkit-transition: width 0.6s ease;
      -moz-transition: width 0.6s ease;
@@ -704,7 +704,7 @@ figcaption.mask span {
 }
 
 .progress-success .bar, .progress-green .bar {
-  background-color: #00C7FC;
+  background-color: #468c46;
 
 }
 
@@ -742,7 +742,7 @@ figcaption.mask span {
 }
 
 .pricing-table .price {
-  border-top: 1px solid #00c7fc;
+  border-top: 1px solid #468c46;
   padding: 35px 0 45px;
 }
 
@@ -770,8 +770,8 @@ figcaption.mask span {
 }
 
 .pricing-table ul {
-  border-bottom: 1px solid #00c7fc;
-  border-top: 1px solid #00c7fc;
+  border-bottom: 1px solid #468c46;
+  border-top: 1px solid #468c46;
 }
 
 .pricing-table ul li {
@@ -781,7 +781,7 @@ figcaption.mask span {
 }
 
 .pricing-table ul li:after {
-  border-bottom: 1px solid #00c7fc;
+  border-bottom: 1px solid #468c46;
   bottom: 0;
   content: "";
   display: block;
@@ -800,7 +800,7 @@ figcaption.mask span {
 }
 
 .btn-price {
-  border: 1px solid #00c7fc;
+  border: 1px solid #468c46;
   color: #1f2021;
   margin-top: 40px;
   padding: 10px 30px;
@@ -848,7 +848,7 @@ figcaption.mask span {
 }
 
 .subscription-form #mail-submit {
-  background-color: #00c7fc;
+  background-color: #468c46;
   border: 0 none;
   color: #fff;
   padding: 16px 35px;
@@ -943,7 +943,7 @@ figcaption.mask span {
 }
 
 .footer-social ul li a:hover {
-  color: #00C7FC;
+  color: #468c46;
 }
 
 .copyright {
@@ -953,7 +953,7 @@ figcaption.mask span {
 }
 
 .copyright a {
-    color: #00C7FC;
+    color: #468c46;
 }
 
 .copyright a:hover {
