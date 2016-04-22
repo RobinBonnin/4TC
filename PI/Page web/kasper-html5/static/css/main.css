@@ -147,6 +147,10 @@ width: 11px;
           transition: all 0.6s ease;
 }
 
+header#navigation.navbar-fixed-top.animated-nav{
+  background-color: #468C46 !important;
+}
+
 .animated-nav .navbar-brand {
   padding: 15px 0;
 }
@@ -156,7 +160,7 @@ width: 11px;
 }
 
 #navigation > .container {
-  border-bottom: 1px solid #636364;
+  border-bottom: 1px solid #468C46;
 }
 
 .animated-nav#navigation > .container {
@@ -173,7 +177,7 @@ width: 11px;
 }
 
 .navigation .navbar-nav > li > a {
-  color: #468c46;
+  color: #468C46;
   font-size: 13px;
   font-weight: 600;
   padding: 38px 25px;
@@ -181,13 +185,16 @@ width: 11px;
 }
 
 .navigation .navbar-nav > li.current > a {
-  color: #468c46;
-  border-bottom: 1px solid #468c46;
+  color: #468C46;
+  border-bottom: 1px solid #468C46;
 }
 
 .animated-nav .navigation .navbar-nav > li.current > a {
-  color: #468c46;
+  color: #FFFFFF;
   border-bottom: 1px solid #fff;
+}
+.animated-nav .navigation .navbar-nav > li > a {
+  color: #FFFFFF;
 }
 
 .navigation .navbar-nav > li > a:focus,
@@ -253,7 +260,7 @@ width: 11px;
 }
 
 .carousel-caption > div {
-  background-color: rgba(15,116,143,0.8);
+  background-color: #468c46;
   padding: 60px 50px 80px 20%;
   position: absolute;
   top: 25%;
@@ -375,7 +382,7 @@ width: 11px;
 ============================================================*/
 
 #service-bottom {
-  background-color: #1f2021;
+  background-color: #FFFFFF;
   padding-bottom: 0;
   position: relative;
 }
@@ -400,7 +407,7 @@ width: 11px;
 }
 
 .service-features {
-  background-color: #0f748f;
+  background-color: #468C46;
   color: #fff;
   height: 335px;
   padding: 50px 0 50px 65px;
@@ -531,12 +538,12 @@ figcaption.mask span {
 /* Counter section */
 
 #count {
-  background-color: #121116;
+  background-color: #FFFFFF;
   padding-bottom: 90px;
 }
 
 .counter-section {
-  background-color: #096c89;
+  background-color: #468C46;
   padding: 25px 0 40px;
 }
 
@@ -828,7 +835,7 @@ figcaption.mask span {
 }
 
 .subscription-form {
-  color: #fff;
+  color: #468c46;
   position: relative;
 }
 
@@ -839,9 +846,9 @@ figcaption.mask span {
 }
 
 .subscription-form .subscribe {
-  background-color: transparent;
+  background-color: #FFFFFF;
   border: 1px solid #fff;
-  color: #fff;
+ color: #468C46; 
   height: 58px;
   text-indent: 60px;
   width: 100%;
